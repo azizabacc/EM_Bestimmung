@@ -1,0 +1,64 @@
+
+########################################
+# Fit performed on 2016-11-15 21:14:48 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5725e-14   3.88e-09   
+# y_intercept
+1.6298e-13   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0 +- 3.9e-09
+y_intercept = 0 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.26e-09/4 = 1.57e-09
+EdM      6.26201e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+

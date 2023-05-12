@@ -1,0 +1,76 @@
+
+########################################
+# Fit performed on 2016-11-15 19:13:06 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e+03   4.91e-06   
+# y_intercept
+1.3333e+01   6.46e-09   -0.837   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4016.77 +- 4.9e-06
+y_intercept = 13.3333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.77e+18/6 = 7.94e+17
+EdM      3.38998e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+

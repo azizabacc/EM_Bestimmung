@@ -1,0 +1,7319 @@
+
+########################################
+# Fit performed on 2016-11-15 11:20:42 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   1.40e-08   
+# y_intercept
+0.0000e+00   2.21e-08   -0.947   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 1.4e-08
+y_intercept = 0 +- 2.2e-08
+
+###############
+# Fit details #
+###############
+
+# WARNING: Number of degrees of freedom is zero!
+# Please review parameterization...
+
+USING    ROOT::TMinuit
+
+########################################
+# Fit performed on 2016-11-15 11:22:03 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:23:09 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:23:43 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:32:23 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:33:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:37:10 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:37:36 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 11:38:41 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    ROOT::TMinuit
+FCN/ndf  0/2 = 0
+EdM      1.78767e-14
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 18:59:56 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+3.000000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+4.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   4.47e-09   
+# y_intercept
+0.0000e+00   1.22e-08   -0.913   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 4.5e-09
+y_intercept = 0 +- 1.2e-08
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  0/2 = 0
+EdM      4.86197e-15
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:00:32 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.162278e+00
+2.236068e+00
+1.825742e+00
+1.581139e+00
+1.414214e+00
+1.290994e+00
+1.195229e+00
+1.118034e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-05	1.000000e-08
+9.000000e-05	1.000000e-08
+1.200000e-04	1.000000e-08
+1.600000e-04	1.000000e-08
+2.000000e-04	1.000000e-08
+2.300000e-04	1.000000e-08
+2.700000e-04	1.000000e-08
+3.000000e-04	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-1.1677e-04   5.51e-09   
+# y_intercept
+3.7928e-04   1.02e-08   -0.937   
+
+########################
+# Final fit parameters #
+########################
+
+slope = -0.000116771 +- 5.5e-09
+y_intercept = 0.000379276 +- 1e-08
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  9.47e+07/6 = 1.58e+07
+EdM      2.69052e-10
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:12:00 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-05	1.000000e-08
+9.000000e-05	1.000000e-08
+1.200000e-04	1.000000e-08
+1.600000e-04	1.000000e-08
+2.000000e-04	1.000000e-08
+2.300000e-04	1.000000e-08
+2.700000e-04	1.000000e-08
+3.000000e-04	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e-02   4.91e-06   
+# y_intercept
+1.3333e-04   6.45e-09   -0.837   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0401677 +- 4.9e-06
+y_intercept = 0.000133333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  4.77e+08/6 = 7.94e+07
+EdM      9.12334e-16
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:13:06 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e+03   4.91e-06   
+# y_intercept
+1.3333e+01   6.46e-09   -0.837   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4016.77 +- 4.9e-06
+y_intercept = 13.3333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.77e+18/6 = 7.94e+17
+EdM      3.38998e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:15:06 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.5133e+03   5.39e-06   
+# y_intercept
+1.7738e+01   7.55e-09   -0.866   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -7.55e-09
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1513.28 +- 5.4e-06
+y_intercept = 17.7377 +- 7.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.5e+18/5 = 7e+17
+EdM      1.24883e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:15:34 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.5133e+03   5.39e-06   
+# y_intercept
+1.7738e+01   7.55e-09   -0.866   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -7.55e-09
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1513.28 +- 5.4e-06
+y_intercept = 17.7377 +- 7.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.5e+18/5 = 7e+17
+EdM      1.24883e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:22:53 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e+03   4.91e-06   
+# y_intercept
+1.3333e+01   6.46e-09   -0.837   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4016.77 +- 4.9e-06
+y_intercept = 13.3333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.77e+18/6 = 7.94e+17
+EdM      3.38998e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:25:57 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e+03   4.91e-06   
+# y_intercept
+1.3333e+01   6.46e-09   -0.837   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4016.77 +- 4.9e-06
+y_intercept = 13.3333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.77e+18/6 = 7.94e+17
+EdM      3.38998e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:26:07 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+0.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.0168e+03   4.91e-06   
+# y_intercept
+1.3333e+01   6.46e-09   -0.837   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4016.77 +- 4.9e-06
+y_intercept = 13.3333 +- 6.5e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.77e+18/6 = 7.94e+17
+EdM      3.38998e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:27:09 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e-04
+6.283185e-04
+9.424778e-04
+1.256637e-03
+1.570796e-03
+1.884956e-03
+2.199115e-03
+2.513000e-03
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e+04   4.91e-06   
+# y_intercept
+1.5706e+00   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 11444.9 +- 4.9e-06
+y_intercept = 1.57061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+15/6 = 1.03e+15
+EdM      2.08193e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:28:56 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+01
+6.283185e+01
+9.424778e+01
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-1.5241e-01   1.32e-10   
+# y_intercept
+2.3136e+01   5.87e-09   -0.798   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +inf -inf
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = -0.152407 +- 1.3e-10
+y_intercept = 23.1365 +- 5.9e-09
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.11e+18/6 = 6.85e+17
+EdM      4.28941e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:29:31 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+01
+6.283185e+01
+9.424778e+01
+1.256637e+02
+1.570796e+02
+1.884956e+02
+2.199115e+02
+2.513000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e+00	1.000000e-08
+9.000000e+00	1.000000e-08
+1.200000e+01	1.000000e-08
+1.600000e+01	1.000000e-08
+2.000000e+01	1.000000e-08
+2.300000e+01	1.000000e-08
+2.700000e+01	1.000000e-08
+3.000000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-11   
+# y_intercept
+1.5706e+00   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-11
+y_intercept = 1.57061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+15/6 = 1.03e+15
+EdM      1.10606e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:31:05 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:33:41 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:34:28 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:35:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:35:51 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:36:15 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:36:30 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:36:46 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:37:06 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:37:31 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:37:52 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:38:05 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 19:51:21 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:14:40 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:18:52 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e-01
+8.944272e-02
+8.164966e-02
+7.559289e-02
+7.071068e-02
+6.666667e-02
+6.324555e-02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.300000e+00	1.000000e-08
+4.600000e+00	1.000000e-08
+4.700000e+00	1.000000e-08
+5.800000e+00	1.000000e-08
+5.900000e+00	1.000000e-08
+6.500000e+00	1.000000e-08
+6.600000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-6.8534e+01   3.11e-07   
+# y_intercept
+1.0844e+01   2.46e-08   -0.988   
+!!! uncertainties from MINOS:
+# slope
+     +3.11e-07 -6.22e-07
+# y_intercept
+     +2.46e-08 -2.46e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = -68.5336 +- 3.1e-07
+y_intercept = 10.8441 +- 2.5e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  4.96e+15/5 = 9.93e+14
+EdM      1.46672e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:18:52 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+8.944272e-02
+8.164966e-02
+7.559289e-02
+7.071068e-02
+6.666667e-02
+6.324555e-02
+
+# axis 1: y
+# datapoints	uncor. err.
+8.700000e+00	1.000000e-08
+9.900000e+00	1.000000e-08
+1.070000e+01	1.000000e-08
+1.180000e+01	1.000000e-08
+1.310000e+01	1.000000e-08
+1.430000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-2.0778e+02   4.57e-07   
+# y_intercept
+2.6907e+01   3.43e-08   -0.993   
+
+########################
+# Final fit parameters #
+########################
+
+slope = -207.778 +- 4.6e-07
+y_intercept = 26.9068 +- 3.4e-08
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  8.54e+15/4 = 2.13e+15
+EdM      2.72478e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:37:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.622500e+00	1.000000e-08
+5.290000e+00	1.000000e-08
+5.522500e+00	1.000000e-08
+8.410000e+00	1.000000e-08
+8.702500e+00	1.000000e-08
+1.056250e+01	1.000000e-08
+0.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-2.0357e-04   5.77e-11   
+# y_intercept
+6.1942e+00   1.08e-08   -0.937   
+!!! uncertainties from MINOS:
+# slope
+     +7.56e-11 -2.14e-10
+# y_intercept
+     +1.38e-08 -1.38e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = -0.000203571 +- 5.8e-11
+y_intercept = 6.1942 +- 1.1e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  7.24e+17/5 = 1.45e+17
+EdM      9.50434e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:37:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.892250e+01	1.000000e-08
+2.450250e+01	1.000000e-08
+2.862250e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.290250e+01	1.000000e-08
+0.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+-3.7971e-02   9.56e-11   
+# y_intercept
+3.2080e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +inf -inf
+# y_intercept
+     +1.84e-08 -1.84e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = -0.0379714 +- 9.6e-11
+y_intercept = 32.0796 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.08e+19/4 = 2.69e+18
+EdM      1.03451e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:39:18 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.622500e+00	1.000000e-08
+5.290000e+00	1.000000e-08
+5.522500e+00	1.000000e-08
+8.410000e+00	1.000000e-08
+8.702500e+00	1.000000e-08
+1.056250e+01	1.000000e-08
+1.089000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.6468e-02   7.56e-11   
+# y_intercept
+-4.1759e-01   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.40e-10 -2.40e-10
+# y_intercept
+     +4.36e-08 -4.36e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0464679 +- 7.6e-11
+y_intercept = -0.417589 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  2.11e+16/5 = 4.22e+15
+EdM      7.04766e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:39:18 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.892250e+01	1.000000e-08
+2.450250e+01	1.000000e-08
+2.862250e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.290250e+01	1.000000e-08
+5.112250e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+2.5416e-01   9.56e-11   
+# y_intercept
+-1.4174e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +3.00e-10 -3.00e-10
+# y_intercept
+     +5.77e-08 -5.77e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.254157 +- 9.6e-11
+y_intercept = -14.174 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.14e+17/4 = 2.85e+16
+EdM      0.000199941
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:40:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.622500e+00	1.000000e-08
+5.290000e+00	1.000000e-08
+5.522500e+00	1.000000e-08
+8.410000e+00	1.000000e-08
+8.702500e+00	1.000000e-08
+1.056250e+01	1.000000e-08
+1.089000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.6468e-02   7.56e-11   
+# y_intercept
+-4.1759e-01   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.40e-10 -2.40e-10
+# y_intercept
+     +4.36e-08 -4.36e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0464679 +- 7.6e-11
+y_intercept = -0.417589 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  2.11e+16/5 = 4.22e+15
+EdM      7.04766e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:40:13 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.892250e+01	1.000000e-08
+2.450250e+01	1.000000e-08
+2.862250e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.290250e+01	1.000000e-08
+5.112250e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+2.5416e-01   9.56e-11   
+# y_intercept
+-1.4174e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +3.00e-10 -3.00e-10
+# y_intercept
+     +5.77e-08 -5.77e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.254157 +- 9.6e-11
+y_intercept = -14.174 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.14e+17/4 = 2.85e+16
+EdM      0.000199941
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:42:15 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.622500e-04	1.000000e-08
+5.290000e-04	1.000000e-08
+5.522500e-04	1.000000e-08
+8.410000e-04	1.000000e-08
+8.702500e-04	1.000000e-08
+1.056250e-03	1.000000e-08
+1.089000e-03	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.6468e-06   7.56e-11   
+# y_intercept
+-4.1759e-05   1.38e-08   -0.962   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 4.64679e-06 +- 7.6e-11
+y_intercept = -4.1759e-05 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  2.11e+08/5 = 4.22e+07
+EdM      1.23646e-16
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:42:15 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.892250e-03	1.000000e-08
+2.450250e-03	1.000000e-08
+2.862250e-03	1.000000e-08
+3.481000e-03	1.000000e-08
+4.290250e-03	1.000000e-08
+5.112250e-03	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+2.5416e-05   9.56e-11   
+# y_intercept
+-1.4174e-03   1.84e-08   -0.975   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 2.54157e-05 +- 9.6e-11
+y_intercept = -0.00141741 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.14e+09/4 = 2.85e+08
+EdM      4.10706e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:42:47 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+4.622500e+00	1.000000e-08
+5.290000e+00	1.000000e-08
+5.522500e+00	1.000000e-08
+8.410000e+00	1.000000e-08
+8.702500e+00	1.000000e-08
+1.056250e+01	1.000000e-08
+1.089000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+4.6468e-02   7.56e-11   
+# y_intercept
+-4.1759e-01   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.40e-10 -2.40e-10
+# y_intercept
+     +4.36e-08 -4.36e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0464679 +- 7.6e-11
+y_intercept = -0.417589 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  2.11e+16/5 = 4.22e+15
+EdM      7.04766e-06
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:42:47 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.892250e+01	1.000000e-08
+2.450250e+01	1.000000e-08
+2.862250e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.290250e+01	1.000000e-08
+5.112250e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+2.5416e-01   9.56e-11   
+# y_intercept
+-1.4174e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +3.00e-10 -3.00e-10
+# y_intercept
+     +5.77e-08 -5.77e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.254157 +- 9.6e-11
+y_intercept = -14.174 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.14e+17/4 = 2.85e+16
+EdM      0.000199941
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:49:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:49:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:51:25 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:51:25 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:51:56 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:51:56 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:54:08 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:54:08 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:55:09 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:56:59 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:57:15 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:57:15 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:57:28 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:57:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:58:16 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:58:27 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 20:58:27 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:14:48 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+0.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5725e-14   3.88e-09   
+# y_intercept
+1.6298e-13   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0 +- 3.9e-09
+y_intercept = 0 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.26e-09/4 = 1.57e-09
+EdM      6.26201e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 1.0
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:14:48 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:15:19 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:15:19 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:16:10 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:16:10 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:17:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:17:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:17:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:17:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:31:51 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+2.992900e-02
+3.648100e-02
+4.622500e-02
+5.428900e-02
+6.150400e-02
+6.969600e-02
+7.728400e-02
+8.294400e-02
+9.241600e-02
+9.985600e-02
+1.043290e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+2.000000e+02	1.000000e-08
+2.500000e+02	1.000000e-08
+3.000000e+02	1.000000e-08
+3.500000e+02	1.000000e-08
+4.000000e+02	1.000000e-08
+4.500000e+02	1.000000e-08
+5.000000e+02	1.000000e-08
+5.500000e+02	1.000000e-08
+6.000000e+02	1.000000e-08
+6.500000e+02	1.000000e-08
+7.000000e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+
+########################################
+# Fit performed on 2016-11-15 21:34:55 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-08
+3.648100e-02	1.000000e-08
+4.622500e-02	1.000000e-08
+5.428900e-02	1.000000e-08
+6.150400e-02	1.000000e-08
+6.969600e-02	1.000000e-08
+7.728400e-02	1.000000e-08
+8.294400e-02	1.000000e-08
+9.241600e-02	1.000000e-08
+9.985600e-02	1.000000e-08
+1.043290e-01	1.000000e-08
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+
+########################################
+# Fit performed on 2016-11-15 21:36:14 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-08
+3.648100e-02	1.000000e-08
+4.622500e-02	1.000000e-08
+5.428900e-02	1.000000e-08
+6.150400e-02	1.000000e-08
+6.969600e-02	1.000000e-08
+7.728400e-02	1.000000e-08
+8.294400e-02	1.000000e-08
+9.241600e-02	1.000000e-08
+9.985600e-02	1.000000e-08
+1.043290e-01	1.000000e-08
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+
+########################################
+# Fit performed on 2016-11-15 21:36:18 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:36:18 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:36:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-08
+3.648100e-02	1.000000e-08
+4.622500e-02	1.000000e-08
+5.428900e-02	1.000000e-08
+6.150400e-02	1.000000e-08
+6.969600e-02	1.000000e-08
+7.728400e-02	1.000000e-08
+8.294400e-02	1.000000e-08
+9.241600e-02	1.000000e-08
+9.985600e-02	1.000000e-08
+1.043290e-01	1.000000e-08
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+
+########################################
+# Fit performed on 2016-11-15 21:38:23 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-03
+3.648100e-02	1.000000e-03
+4.622500e-02	1.000000e-03
+5.428900e-02	1.000000e-03
+6.150400e-02	1.000000e-03
+6.969600e-02	1.000000e-03
+7.728400e-02	1.000000e-03
+8.294400e-02	1.000000e-03
+9.241600e-02	1.000000e-03
+9.985600e-02	1.000000e-03
+1.043290e-01	1.000000e-03
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e+01   
+# y_intercept
+1.3392e-01   5.97e+00   -0.944   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6555 +- 82
+y_intercept = 0.1 +- 6
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  14.7/9 = 1.63
+EdM      1.26113e-21
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.1
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:38:52 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-03
+3.648100e-02	1.000000e-03
+4.622500e-02	1.000000e-03
+5.428900e-02	1.000000e-03
+6.150400e-02	1.000000e-03
+6.969600e-02	1.000000e-03
+7.728400e-02	1.000000e-03
+8.294400e-02	1.000000e-03
+9.241600e-02	1.000000e-03
+9.985600e-02	1.000000e-03
+1.043290e-01	1.000000e-03
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e+01   
+# y_intercept
+1.3392e-01   5.97e+00   -0.944   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6555 +- 82
+y_intercept = 0.1 +- 6
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  14.7/9 = 1.63
+EdM      1.26113e-21
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.1
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:39:18 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-03
+3.648100e-02	1.000000e-03
+4.622500e-02	1.000000e-03
+5.428900e-02	1.000000e-03
+6.150400e-02	1.000000e-03
+6.969600e-02	1.000000e-03
+7.728400e-02	1.000000e-03
+8.294400e-02	1.000000e-03
+9.241600e-02	1.000000e-03
+9.985600e-02	1.000000e-03
+1.043290e-01	1.000000e-03
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e+01   
+# y_intercept
+1.3392e-01   5.97e+00   -0.944   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6555 +- 82
+y_intercept = 0.1 +- 6
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  14.7/9 = 1.63
+EdM      1.26113e-21
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.1
+HYPTEST  accepted (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:41:07 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-05
+3.648100e-02	1.000000e-05
+4.622500e-02	1.000000e-05
+5.428900e-02	1.000000e-05
+6.150400e-02	1.000000e-05
+6.969600e-02	1.000000e-05
+7.728400e-02	1.000000e-05
+8.294400e-02	1.000000e-05
+9.241600e-02	1.000000e-05
+9.985600e-02	1.000000e-05
+1.043290e-01	1.000000e-05
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-01   
+# y_intercept
+1.3392e-01   5.97e-02   -0.944   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.82
+y_intercept = 0.134 +- 0.06
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.47e+05/9 = 1.63e+04
+EdM      1.11804e-13
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:41:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-07
+3.648100e-02	1.000000e-07
+4.622500e-02	1.000000e-07
+5.428900e-02	1.000000e-07
+6.150400e-02	1.000000e-07
+6.969600e-02	1.000000e-07
+7.728400e-02	1.000000e-07
+8.294400e-02	1.000000e-07
+9.241600e-02	1.000000e-07
+9.985600e-02	1.000000e-07
+1.043290e-01	1.000000e-07
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-03   
+# y_intercept
+1.3392e-01   5.97e-04   -0.944   
+!!! uncertainties from MINOS:
+# slope
+     +1.25e+01 -1.25e+01
+# y_intercept
+     +9.10e-01 -9.10e-01
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.0082
+y_intercept = 0.13392 +- 0.0006
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.47e+09/9 = 1.63e+08
+EdM      1.12911e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:41:35 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-08
+3.648100e-02	1.000000e-08
+4.622500e-02	1.000000e-08
+5.428900e-02	1.000000e-08
+6.150400e-02	1.000000e-08
+6.969600e-02	1.000000e-08
+7.728400e-02	1.000000e-08
+8.294400e-02	1.000000e-08
+9.241600e-02	1.000000e-08
+9.985600e-02	1.000000e-08
+1.043290e-01	1.000000e-08
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+
+########################################
+# Fit performed on 2016-11-15 21:41:42 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-07
+3.648100e-02	1.000000e-07
+4.622500e-02	1.000000e-07
+5.428900e-02	1.000000e-07
+6.150400e-02	1.000000e-07
+6.969600e-02	1.000000e-07
+7.728400e-02	1.000000e-07
+8.294400e-02	1.000000e-07
+9.241600e-02	1.000000e-07
+9.985600e-02	1.000000e-07
+1.043290e-01	1.000000e-07
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-03   
+# y_intercept
+1.3392e-01   5.97e-04   -0.944   
+!!! uncertainties from MINOS:
+# slope
+     +1.25e+01 -1.25e+01
+# y_intercept
+     +9.10e-01 -9.10e-01
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.0082
+y_intercept = 0.13392 +- 0.0006
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.47e+09/9 = 1.63e+08
+EdM      1.12911e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:42:19 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-07
+3.648100e-02	1.000000e-07
+4.622500e-02	1.000000e-07
+5.428900e-02	1.000000e-07
+6.150400e-02	1.000000e-07
+6.969600e-02	1.000000e-07
+7.728400e-02	1.000000e-07
+8.294400e-02	1.000000e-07
+9.241600e-02	1.000000e-07
+9.985600e-02	1.000000e-07
+1.043290e-01	1.000000e-07
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-03   
+# y_intercept
+1.3392e-01   5.97e-04   -0.944   
+!!! uncertainties from MINOS:
+# slope
+     +1.25e+01 -1.25e+01
+# y_intercept
+     +9.10e-01 -9.10e-01
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.0082
+y_intercept = 0.13392 +- 0.0006
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.47e+09/9 = 1.63e+08
+EdM      1.12911e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:43:54 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-07
+3.648100e-02	1.000000e-07
+4.622500e-02	1.000000e-07
+5.428900e-02	1.000000e-07
+6.150400e-02	1.000000e-07
+6.969600e-02	1.000000e-07
+7.728400e-02	1.000000e-07
+8.294400e-02	1.000000e-07
+9.241600e-02	1.000000e-07
+9.985600e-02	1.000000e-07
+1.043290e-01	1.000000e-07
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-03   
+# y_intercept
+1.3392e-01   5.97e-04   -0.944   
+!!! uncertainties from MINOS:
+# slope
+     +1.25e+01 -1.25e+01
+# y_intercept
+     +9.10e-01 -9.10e-01
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.0082
+y_intercept = 0.13392 +- 0.0006
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.47e+09/9 = 1.63e+08
+EdM      1.12911e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:44:26 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints	uncor. err.
+2.992900e-02	1.000000e-07
+3.648100e-02	1.000000e-07
+4.622500e-02	1.000000e-07
+5.428900e-02	1.000000e-07
+6.150400e-02	1.000000e-07
+6.969600e-02	1.000000e-07
+7.728400e-02	1.000000e-07
+8.294400e-02	1.000000e-07
+9.241600e-02	1.000000e-07
+9.985600e-02	1.000000e-07
+1.043290e-01	1.000000e-07
+
+# axis 1: y
+# datapoints
+2.000000e+02
+2.500000e+02
+3.000000e+02
+3.500000e+02
+4.000000e+02
+4.500000e+02
+5.000000e+02
+5.500000e+02
+6.000000e+02
+6.500000e+02
+7.000000e+02
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+6.5547e+03   8.20e-03   
+# y_intercept
+1.3392e-01   5.97e-04   -0.944   
+!!! uncertainties from MINOS:
+# slope
+     +1.25e+01 -1.25e+01
+# y_intercept
+     +9.10e-01 -9.10e-01
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 6554.75 +- 0.0082
+y_intercept = 0.13392 +- 0.0006
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.47e+09/9 = 1.63e+08
+EdM      1.12911e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:44:33 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-15 21:44:33 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:40:29 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:40:29 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:40:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+02
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+1.849000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+2.209000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+3.481000e+01	1.000000e-08
+4.225000e+01	1.000000e-08
+4.356000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8587e-01   7.56e-11   
+# y_intercept
+-1.6704e+00   1.38e-08   -0.962   
+!!! uncertainties from MINOS:
+# slope
+     +2.47e-10 -2.47e-10
+# y_intercept
+     +4.49e-08 -4.49e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.185871 +- 7.6e-11
+y_intercept = -1.67036 +- 1.4e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  3.38e+17/5 = 6.76e+16
+EdM      1.57985e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:40:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.250000e+02
+1.500000e+02
+1.750000e+02
+2.000000e+02
+2.250000e+02
+2.500000e+02
+
+# axis 1: y
+# datapoints	uncor. err.
+7.569000e+01	1.000000e-08
+9.801000e+01	1.000000e-08
+1.144900e+02	1.000000e-08
+1.392400e+02	1.000000e-08
+1.716100e+02	1.000000e-08
+2.044900e+02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0166e+00   9.56e-11   
+# y_intercept
+-5.6696e+01   1.84e-08   -0.975   
+!!! uncertainties from MINOS:
+# slope
+     +2.70e-10 -9.56e-11
+# y_intercept
+     +1.84e-08 -5.20e-08
+
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1.01663 +- 9.6e-11
+y_intercept = -56.6962 +- 1.8e-08
+
+###############
+# Fit details #
+###############
+
+Attention: use uncertainties from MINOS
+
+USING    iminuit
+FCN/ndf  1.82e+18/4 = 4.56e+17
+EdM      0.000413446
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:41:09 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+5.175716e-03	1.000000e-08
+7.971939e-03	1.000000e-08
+1.020304e-02	1.000000e-08
+1.108033e-02	1.000000e-08
+1.876525e-02	1.000000e-08
+2.227668e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+5.5643e-03   3.88e-09   
+# y_intercept
+-3.3954e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.00556426 +- 3.9e-09
+y_intercept = -0.00033954 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.07e+11/4 = 2.66e+10
+EdM      1.59718e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:41:09 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+1.440000e+00
+1.690000e+00
+2.560000e+00
+3.240000e+00
+4.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.181474e-02	1.000000e-08
+1.686625e-02	1.000000e-08
+2.100399e-02	1.000000e-08
+2.972652e-02	1.000000e-08
+3.429355e-02	1.000000e-08
+4.725898e-02	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1166e-02   3.88e-09   
+# y_intercept
+9.0438e-04   9.89e-09   -0.911   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.0111657 +- 3.9e-09
+y_intercept = 0.000904377 +- 9.9e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.23e+11/4 = 3.07e+10
+EdM      4.35313e-09
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:43:24 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+1.932100e+02	1.000000e-08
+1.254400e+02	1.000000e-08
+9.801000e+01	1.000000e-08
+9.025000e+01	1.000000e-08
+5.329000e+01	1.000000e-08
+4.489000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8829e+02   1.57e-08   
+# y_intercept
+-6.8515e-01   9.35e-09   -0.900   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 188.291 +- 1.6e-08
+y_intercept = -0.685154 +- 9.3e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  5.36e+18/4 = 1.34e+18
+EdM      0.000268006
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:43:24 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+8.464000e+01	1.000000e-08
+5.929000e+01	1.000000e-08
+4.761000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+2.916000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+8.2539e+01   1.58e-08   
+# y_intercept
+1.4085e+00   9.47e-09   -0.902   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 82.5391 +- 1.6e-08
+y_intercept = 1.40848 +- 9.5e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.37e+17/4 = 3.43e+16
+EdM      1.07857e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:44:25 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+1.932100e+02	1.000000e-08
+1.254400e+02	1.000000e-08
+9.801000e+01	1.000000e-08
+9.025000e+01	1.000000e-08
+5.329000e+01	1.000000e-08
+4.489000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8829e+02   1.57e-08   
+# y_intercept
+-6.8515e-01   9.35e-09   -0.900   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 188.291 +- 1.6e-08
+y_intercept = -0.685154 +- 9.3e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  5.36e+18/4 = 1.34e+18
+EdM      0.000268006
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:44:25 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+8.464000e+01	1.000000e-08
+5.929000e+01	1.000000e-08
+4.761000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+2.916000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+8.2539e+01   1.58e-08   
+# y_intercept
+1.4085e+00   9.47e-09   -0.902   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 82.5391 +- 1.6e-08
+y_intercept = 1.40848 +- 9.5e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.37e+17/4 = 3.43e+16
+EdM      1.07857e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:44:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+1.932100e+02	1.000000e-08
+1.254400e+02	1.000000e-08
+9.801000e+01	1.000000e-08
+9.025000e+01	1.000000e-08
+5.329000e+01	1.000000e-08
+4.489000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8829e+02   1.57e-08   
+# y_intercept
+-6.8515e-01   9.35e-09   -0.900   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 188.291 +- 1.6e-08
+y_intercept = -0.685154 +- 9.3e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  5.36e+18/4 = 1.34e+18
+EdM      0.000268006
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:44:44 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+8.464000e+01	1.000000e-08
+5.929000e+01	1.000000e-08
+4.761000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+2.916000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+8.2539e+01   1.58e-08   
+# y_intercept
+1.4085e+00   9.47e-09   -0.902   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 82.5391 +- 1.6e-08
+y_intercept = 1.40848 +- 9.5e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.37e+17/4 = 3.43e+16
+EdM      1.07857e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:45:14 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+1.932100e+02	1.000000e-08
+1.254400e+02	1.000000e-08
+9.801000e+01	1.000000e-08
+9.025000e+01	1.000000e-08
+5.329000e+01	1.000000e-08
+4.489000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.8829e+02   1.57e-08   
+# y_intercept
+-6.8515e-01   9.35e-09   -0.900   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 188.291 +- 1.6e-08
+y_intercept = -0.685154 +- 9.3e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  5.36e+18/4 = 1.34e+18
+EdM      0.000268006
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2016-11-18 12:45:14 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+6.944444e-01
+5.917160e-01
+3.906250e-01
+3.086420e-01
+2.500000e-01
+
+# axis 1: y
+# datapoints	uncor. err.
+8.464000e+01	1.000000e-08
+5.929000e+01	1.000000e-08
+4.761000e+01	1.000000e-08
+3.364000e+01	1.000000e-08
+2.916000e+01	1.000000e-08
+2.116000e+01	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+8.2539e+01   1.58e-08   
+# y_intercept
+1.4085e+00   9.47e-09   -0.902   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 82.5391 +- 1.6e-08
+y_intercept = 1.40848 +- 9.5e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  1.37e+17/4 = 3.43e+16
+EdM      1.07857e-05
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2018-12-06 10:13:54 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+
+
+########################################
+# Fit performed on 2019-02-15 13:03:23 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+3.141593e+00
+6.283185e+00
+9.424778e+00
+1.256637e+01
+1.570796e+01
+1.884956e+01
+2.199115e+01
+2.513000e+01
+
+# axis 1: y
+# datapoints	uncor. err.
+5.000000e-01	1.000000e-08
+9.000000e-01	1.000000e-08
+1.200000e+00	1.000000e-08
+1.600000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+2.300000e+00	1.000000e-08
+2.700000e+00	1.000000e-08
+3.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.1445e-01   4.91e-10   
+# y_intercept
+1.5706e-01   7.79e-09   -0.891   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 0.114449 +- 4.9e-10
+y_intercept = 0.157061 +- 7.8e-09
+
+###############
+# Fit details #
+###############
+
+USING    iminuit
+FCN/ndf  6.17e+13/6 = 1.03e+13
+EdM      1.92907e-08
+UP       1
+STA      Error matrix accurate
+
+chi2prob 0.0
+HYPTEST  rejected (sig. 5%)
+

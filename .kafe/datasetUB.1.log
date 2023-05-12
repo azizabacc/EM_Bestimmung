@@ -1,0 +1,51 @@
+
+########################################
+# Fit performed on 2016-11-15 11:20:42 #
+########################################
+
+###########
+# Dataset #
+###########
+
+# axis 0: x
+# datapoints
+1.000000e+00
+2.000000e+00
+
+# axis 1: y
+# datapoints	uncor. err.
+1.000000e+00	1.000000e-08
+2.000000e+00	1.000000e-08
+
+
+################
+# Fit function #
+################
+
+linear_2par(x; slope, y_intercept) = slope * x + y_intercept
+
+##############
+# Fit result #
+##############
+
+# value        error    correlations
+# slope
+1.0000e+00   1.40e-08   
+# y_intercept
+0.0000e+00   2.21e-08   -0.947   
+
+########################
+# Final fit parameters #
+########################
+
+slope = 1 +- 1.4e-08
+y_intercept = 0 +- 2.2e-08
+
+###############
+# Fit details #
+###############
+
+# WARNING: Number of degrees of freedom is zero!
+# Please review parameterization...
+
+USING    ROOT::TMinuit
